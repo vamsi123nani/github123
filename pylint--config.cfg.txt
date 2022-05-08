@@ -1,6 +1,0 @@
-$ pylint --generate-rcfile > pylint.cfg
-
-$ ... customize pylint.cfg
-$ git add pylint.cfg
-$ git commit -a -m "added pylint"
-$ git push
